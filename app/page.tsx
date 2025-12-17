@@ -1,7 +1,6 @@
 'use client'
 
 import Image from 'next/image'
-import Link from 'next/link'
 import { Button } from '@/components/ui/button'
 import { Card } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
@@ -86,7 +85,7 @@ export default function Home() {
                   onClick={() => scrollToSection('contact')}
                   className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-6 text-lg"
                 >
-                  Let's Connect <ArrowRight className="ml-2 w-5 h-5" />
+                  Let&apos;s Connect <ArrowRight className="ml-2 w-5 h-5" />
                 </Button>
                 <a href="https://www.linkedin.com/in/siddharth-shankar-choudhary/" target="_blank" rel="noopener noreferrer">
                   <Button variant="outline" className="px-8 py-6 text-lg">
@@ -121,13 +120,13 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-12">
             <div>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                I'm a results-driven Software Engineer with proven success in delivering high-impact web and full-stack solutions. My journey from Intern to SDE3 in just 2.5 years demonstrates my commitment to excellence and continuous growth.
+                I&apos;m a results-driven Software Engineer with proven success in delivering high-impact web and full-stack solutions. My journey from Intern to SDE3 in just 2.5 years demonstrates my commitment to excellence and continuous growth.
               </p>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
                 I specialize in building scalable, reliable, and efficient solutions using modern technologies. My expertise spans React, TypeScript, Kotlin, Spring Boot, and cloud infrastructure, with a strong focus on performance optimization and system design.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Beyond coding, I'm passionate about mentoring peers, driving engineering velocity, and solving real-world problems through clean and efficient code.
+                Beyond coding, I&apos;m passionate about mentoring peers, driving engineering velocity, and solving real-world problems through clean and efficient code.
               </p>
             </div>
             <div className="space-y-6">
@@ -202,7 +201,7 @@ export default function Home() {
                   <h3 className="text-2xl font-bold text-gray-900">Software Engineer II</h3>
                   <p className="text-lg text-blue-600 font-semibold mt-1">Surya Digital</p>
                 </div>
-                <Badge className="bg-purple-100 text-purple-800 mt-2 sm:mt-0">Jul 2024 - Jun 2025</Badge>
+                <Badge className="bg-purple-100 text-purple-800 mt-2 sm:mt-0">Jul 2024 - Jul 2025</Badge>
               </div>
               <ul className="space-y-3 text-gray-600 ml-4">
                 <li className="flex gap-3">
@@ -231,7 +230,7 @@ export default function Home() {
                   <h3 className="text-2xl font-bold text-gray-900">Software Engineer I</h3>
                   <p className="text-lg text-blue-600 font-semibold mt-1">Surya Digital</p>
                 </div>
-                <Badge className="bg-pink-100 text-pink-800 mt-2 sm:mt-0">Jul 2023 - Jun 2024</Badge>
+                <Badge className="bg-pink-100 text-pink-800 mt-2 sm:mt-0">Jul 2023 - Jul 2024</Badge>
               </div>
               <ul className="space-y-3 text-gray-600 ml-4">
                 <li className="flex gap-3">
@@ -352,7 +351,7 @@ export default function Home() {
           <h2 className="text-5xl font-bold text-white mb-2">Siddharth Shankar Choudhary</h2>
           <p className="text-2xl text-blue-100 mb-4">Software Engineer III</p>
           <p className="text-xl text-blue-100 mb-12 max-w-2xl mx-auto">
-            I'm always interested in hearing about new projects and opportunities. Feel free to reach out!
+            I&apos;m always interested in hearing about new projects and opportunities. Feel free to reach out!
           </p>
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center flex-wrap">
             <a href="mailto:shankarchoudharysiddharth@gmail.com" className="inline-block">
