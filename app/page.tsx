@@ -173,7 +173,7 @@ export default function Home() {
             <Card className="p-8 hover:shadow-lg transition-shadow">
               <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between mb-4">
                 <div>
-                  <h3 className="text-2xl font-bold text-gray-900">Software Engineer III</h3>
+                  <h3 className="text-2xl font-bold text-gray-900">Software Development Engineer III</h3>
                   <p className="text-lg text-blue-600 font-semibold mt-1">Surya Digital</p>
                 </div>
                 <Badge className="bg-blue-100 text-blue-800 mt-2 sm:mt-0">Jul 2025 - Oct 2025</Badge>
@@ -198,7 +198,7 @@ export default function Home() {
             <Card className="p-8 hover:shadow-lg transition-shadow">
               <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between mb-4">
                 <div>
-                  <h3 className="text-2xl font-bold text-gray-900">Software Engineer II</h3>
+                  <h3 className="text-2xl font-bold text-gray-900">Software Development Engineer II</h3>
                   <p className="text-lg text-blue-600 font-semibold mt-1">Surya Digital</p>
                 </div>
                 <Badge className="bg-purple-100 text-purple-800 mt-2 sm:mt-0">Jul 2024 - Jul 2025</Badge>
@@ -227,7 +227,7 @@ export default function Home() {
             <Card className="p-8 hover:shadow-lg transition-shadow">
               <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between mb-4">
                 <div>
-                  <h3 className="text-2xl font-bold text-gray-900">Software Engineer I</h3>
+                  <h3 className="text-2xl font-bold text-gray-900">Software Development Engineer I</h3>
                   <p className="text-lg text-blue-600 font-semibold mt-1">Surya Digital</p>
                 </div>
                 <Badge className="bg-pink-100 text-pink-800 mt-2 sm:mt-0">Jul 2023 - Jul 2024</Badge>
@@ -252,7 +252,7 @@ export default function Home() {
             <Card className="p-8 hover:shadow-lg transition-shadow">
               <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between mb-4">
                 <div>
-                  <h3 className="text-2xl font-bold text-gray-900">Software Engineer Intern</h3>
+                  <h3 className="text-2xl font-bold text-gray-900">Software Development Engineer Intern</h3>
                   <p className="text-lg text-blue-600 font-semibold mt-1">Surya Digital</p>
                 </div>
                 <Badge className="bg-green-100 text-green-800 mt-2 sm:mt-0">Jan 2023 - Jun 2023</Badge>
